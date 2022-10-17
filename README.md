@@ -1,3 +1,1 @@
-NAMA    : Sakha Wibisono
-NIM     : 6706213102
-MATKUL  : PBW 2
+[CRUD]_6706213102_Sakha Wibisono
